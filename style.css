@@ -1,0 +1,43 @@
+.border{
+    background: rgb(14,163,156);
+    padding: 2px;
+}
+
+.title_box {
+    padding: 5pt;
+    color: white;
+    background: rgb(14,163,156);
+    margin-left: 30pt;
+    font-size: 20pt;
+}
+
+.box {
+    
+    padding: 40px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    color: black;
+    background: white;
+    font-size: 16pt;
+}
+
+.center{
+    text-align: center
+}
+
+
+
+.container_box {
+    padding: 50px;
+    color: #fff;
+    background: rgb(237,237,237);
+    padding-bottom: 100px;
+}
+
+h1{
+    color:rgb(14,163,156);
+}
+
+h3{
+    color:rgb(14,163,156);
+}
